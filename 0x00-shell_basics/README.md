@@ -1,2 +1,2 @@
-#!/bin/bash
+AlX training
 ls
